@@ -2,6 +2,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=123THU)
 
+![trophy](https://github-profile-trophy.vercel.app/?username=123THU)
+
+
 <!--
 **123THU/123THU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
