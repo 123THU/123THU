@@ -18,9 +18,9 @@
 
 <img align="right" width="88" src="https://avatars.githubusercontent.com/u/45090349?v=4" />
 
-<p>&emsp;&emsp;I'm currently an undergraduate student majoring in software engineering, working hard to be admitted to Tsinghua or Peking University for a master's degree.</p>
+<p>&emsp;&emsp;🔭 I'm currently an undergraduate student majoring in software engineering, working hard to be admitted to Tsinghua or Peking University for a master's degree.</p>
 <p>&emsp;&emsp;Hope to pursue a PhD and postdoctoral research at an amazing American university.</p>
-<p>&emsp;&emsp;I love music, film and traveling, and once studied the violin under Zhonghong Sheng(an amazing and famous violin teacher) for 5 years.</p>
+<p>&emsp;&emsp;⚡ I love music, film and traveling, and once studied the violin under Zhonghong Sheng(an amazing and famous violin teacher) for 5 years.</p>
 <p>&emsp;&emsp;🤗 Interesting fact: If I had met my violin teacher earlier, I might have majored in violin instead of computer science.</p>
 
   <!-- for beauty 留个空行好看点 -->
