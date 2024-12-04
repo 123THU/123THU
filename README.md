@@ -2,7 +2,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=123THU)
 
-![](https://stats.justsong.cn/api/leetcode?username=0x3f3f3f3f&cn=true)
+![](https://stats.justsong.cn/api/leetcode?username=hardcore-davinciypg&cn=true)
 
 
 <!--
