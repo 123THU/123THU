@@ -1,7 +1,7 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=123THU)
-(??? only notebook, wow)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/123THU/123THU/output/github-contribution-grid-snake-dark.svg">
