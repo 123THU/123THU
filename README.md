@@ -33,6 +33,8 @@
 
 ### Personal Profile
 This is typically for Graduate or PhD Advisor! If you are interested in mentoring or collaborating with me, I would be delighted to connect and discuss further!!
+(Ruochangli@gmail.com)
+
 <p>&emsp;&emsp; </p> Weighted Average Grade: 1 / 297 (0.33%) in the first five semesters of my studies!!
 
 | Subject                | Grade  | GPA | 
