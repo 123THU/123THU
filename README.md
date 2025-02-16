@@ -31,31 +31,6 @@
 
 <tr><td>
 
-### Personal Profile
-This is typically for Graduate or PhD Advisor! If you are interested in mentoring or collaborating with me, I would be delighted to connect and discuss further!!
-(Ruochangli@gmail.com)
-
-<p>&emsp;&emsp; </p> Weighted Average Grade: 1 / 297 (0.33%) in the first five semesters of my studies!!
-
-| Subject                | Grade  | GPA | 
-|------------------------|--------|----------|
-| Advanced Mathemetics   | 96.00  |   4.0    | 
-| Operating Systems      | 99.00  |   4.0    | 
-| Principles of Compiler Design  | 97.00  |   4.0    | 
-| Discrete Mathematics      | 99.00  |   4.0    | 
-| Software Architecture      | 96.00  |   4.0    | 
-| Artificial Intelligence | 98.00 | 4.0 |
-| Fundamentals of Database Systems | 96.00 | 4.0 |
-...
-
-<p>&emsp;&emsp;CET-4 score: 613 / 710; CET-6 score : 626 / 710
-  
-### Academic Research Experience
-1. A paper under submission at ACL ARR during my interning at Peking University!! (Hoping AC!!)
-2. The experiments for a paper on the explainability field are in progress. (Maybe SMC25? I don't know..., experiment hasn't even started formally QAQ)
-3. Leader in Undergraduate Innovation Project (RAG-based Medical Large Model (Qwen))
-4. Database Internship at Tsinghua University (Hard and complicated database, almost no progress...omg...)
-
 
   
 ### 🏢 Education Experience
