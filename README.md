@@ -19,9 +19,9 @@
 
 <img align="right" width="88" src="https://avatars.githubusercontent.com/u/45090349?v=4" />
 
-<p>&emsp;&emsp;🔭 I'm currently an undergraduate student majoring in software engineering, working hard to be admitted to Tsinghua or Peking University for a master's degree.</p>
-<p>&emsp;&emsp;Hope to pursue a PhD and postdoctoral research at an amazing American university.</p>
-<p>&emsp;&emsp;⚡ I love music, film and traveling, and once studied the violin under Zhonghong Sheng(an amazing and famous violin teacher) for 5 years.</p>
+<p>&emsp;&emsp;🔭 I'm currently an undergraduate student majoring in software engineering, working hard to be admitted to Tsinghua, Peking or any other amazing Universities for a master's degree.</p>
+<p>&emsp;&emsp;Hope to pursue a PhD and postdoctoral research at an amazing American university. (Wish I'm good enough for it) </p>
+<p>&emsp;&emsp;⚡ I love music, film and traveling, and once studied the violin under Zhonghong Sheng(an amazing and famous violin teacher) for 5 years, from whom I understand the importance of focus and perseverance.</p>
 <p>&emsp;&emsp;🤗 Interesting fact: If I had met my violin teacher earlier, I might have majored in violin instead of computer science.</p>
 
   <!-- for beauty 留个空行好看点 -->
@@ -31,12 +31,41 @@
 
 <tr><td>
 
-## 🏢 Education Experience
+### Personal Profile
+This is typically for Graduate or PhD Advisor! If you are interested in mentoring or collaborating with me, I would be delighted to connect and discuss further!!
+<p>&emsp;&emsp; </p> Weighted Average Grade: 1 / 297 (0.33%) in the first five semesters of my studies!!
+
+| Subject                | Grade  | GPA | 
+|------------------------|--------|----------|
+| Advanced Mathemetics   | 96.00  |   4.0    | 
+| Operating Systems      | 99.00  |   4.0    | 
+| Principles of Compiler Design  | 97.00  |   4.0    | 
+| Discrete Mathematics      | 99.00  |   4.0    | 
+| Software Architecture      | 96.00  |   4.0    | 
+| Artificial Intelligence | 98.00 | 4.0 |
+| Fundamentals of Database Systems | 96.00 | 4.0 |
+...
+
+<p>&emsp;&emsp; CET-4 score: 613 / 710; CET-6 score : 626 / 710
+
+<p>&emsp;&emsp; Academic Research Experience
+1. A paper under submission at ACL ARR during my interning at Peking University！！（Hoping AC!!)
+2. The experiments for a paper on the explainability field are in progress. （Maybe SMC25? I don't know..., experiment even haven't started formally QAQ)
+3. Leader in Undergraduate Innovation Project (RAG-based Medical Large Model(Qwen))
+4. Database Internship at Tsinghua University（Hard and complicated database, almost no process..omg...)
+
+
+  
+### 🏢 Education Experience
 
 (🤔 waiting to be updated...)
 
+###
+Without the support of all of the fantastic teachers or professors or senior students I have met, I would not have been able to achieve these accomplishments. Hope one day I could assist other students in the way they have helped me. Happy New Year for 2025!🎇🎊
+
+
   <!-- for beauty 留个空行好看点 -->
-  <div>&nbsp;</div>
+  <div>&nbsp;</div> 
   
 </td></tr>
 </table>
