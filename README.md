@@ -46,13 +46,13 @@ This is typically for Graduate or PhD Advisor! If you are interested in mentorin
 | Fundamentals of Database Systems | 96.00 | 4.0 |
 ...
 
-<p>&emsp;&emsp; CET-4 score: 613 / 710; CET-6 score : 626 / 710
-
-<p>&emsp;&emsp; Academic Research Experience
-1. A paper under submission at ACL ARR during my interning at Peking University！！（Hoping AC!!)
-2. The experiments for a paper on the explainability field are in progress. （Maybe SMC25? I don't know..., experiment even haven't started formally QAQ)
-3. Leader in Undergraduate Innovation Project (RAG-based Medical Large Model(Qwen))
-4. Database Internship at Tsinghua University（Hard and complicated database, almost no process..omg...)
+<p>&emsp;&emsp;CET-4 score: 613 / 710; CET-6 score : 626 / 710
+  
+### Academic Research Experience
+1. A paper under submission at ACL ARR during my interning at Peking University!! (Hoping AC!!)
+2. The experiments for a paper on the explainability field are in progress. (Maybe SMC25? I don't know..., experiment hasn't even started formally QAQ)
+3. Leader in Undergraduate Innovation Project (RAG-based Medical Large Model (Qwen))
+4. Database Internship at Tsinghua University (Hard and complicated database, almost no progress...omg...)
 
 
   
