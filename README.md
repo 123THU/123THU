@@ -38,7 +38,7 @@
 (🤔 waiting to be updated...)
 
 ###
-Without the support of all of the fantastic teachers or professors or senior students I have met, I would not have been able to achieve these accomplishments. Hope one day I could assist other students in the way they have helped me. Happy New Year for 2025!🎇🎊
+Happy New Year for 2025!🎇🎊
 
 
   <!-- for beauty 留个空行好看点 -->
