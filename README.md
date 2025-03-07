@@ -11,9 +11,8 @@
 
 ## Hi there 👋
 
-<table>
-  
-<tr><td>
+🚀 **My Official Twitter**: [@ruochang750](https://twitter.com/ruochang750)  
+❌ **Beware of impersonation! This is my only account.**
 
 ### 🤺 About Me
 
