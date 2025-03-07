@@ -36,7 +36,7 @@
 ###
 Happy New Year for 2025!🎇🎊
 
-### How to Concate Me 
+### How to Contact Me 
 
 🚀 **Official Twitter**: [@ruochang750](https://twitter.com/ruochang750)  
 ❌ **Beware of impersonation! This is my only account.** 
