@@ -1,7 +1,7 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=123THU)
-
+<a href="https://info.flagcounter.com/ipxa"><img src="https://s01.flagcounter.com/map/ipxa/size_m/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/123THU/123THU/output/github-contribution-grid-snake-dark.svg">
