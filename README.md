@@ -13,7 +13,9 @@
 
 ### 🤺 About Me
 
+<--!
 <img align="right" width="88" src="https://avatars.githubusercontent.com/u/45090349?v=4" />
+-->
 
 <p>&emsp;&emsp;🔭 I'm currently an undergraduate student majoring in software engineering, working hard to be admitted to any amazing universities for a master's degree.</p>
 <p>&emsp;&emsp;Hope to pursue a PhD and postdoctoral research at an amazing American university. (Wish I'm good enough for it) </p>
