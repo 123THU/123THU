@@ -9,7 +9,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/123THU/123THU/output/github-contribution-grid-snake.svg">
 </picture>
 
-## Hi there 👋
+## Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Bomb.png" alt="Bomb" width="25" height="25" />
 
 ### 🤺 About Me
 
