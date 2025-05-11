@@ -14,7 +14,7 @@
 
 ### 🤺 About Me
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" alt="Woman Technologist Light Skin Tone" width="200" height="200" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Student%20Light%20Skin%20Tone.png" alt="Woman Student Light Skin Tone" width="200" height="200" align="right"/>
 
 <!--
 <img align="right" width="88" src="https://avatars.githubusercontent.com/u/45090349?v=4" />
