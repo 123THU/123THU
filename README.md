@@ -36,8 +36,10 @@
   
 ### 🏢 Education Experience
 
-(🤔 waiting to be updated...)
-(Finding school, offer, and mentor — wild ride...)
+##### (A ‘three-no’ product: no school, no offer, no mentor...) <br>
+
+(🤔 waiting to be updated...)  
+
 
 ###
 Happy New Year for 2025!🎇🎊
