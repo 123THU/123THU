@@ -12,7 +12,8 @@
 
 ## Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Bomb.png" alt="Bomb" width="25" height="25" />
 
-### 🤺 About Me
+<!-- ### 🤺 About Me -->
+### 🧙‍♂️ About Me
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Student%20Light%20Skin%20Tone.png" alt="Woman Student Light Skin Tone" width="200" height="200" align="right"/>
 
@@ -20,10 +21,18 @@
 <img align="right" width="88" src="https://avatars.githubusercontent.com/u/45090349?v=4" />
 -->
 
+<!--
 <p>&emsp;&emsp;🔭 I'm currently an undergraduate student majoring in software engineering, working hard to be admitted to any amazing universities for a master's degree.</p>
 <p>&emsp;&emsp;Hope to pursue a PhD and postdoctoral research at an amazing American university. (Wish I'm good enough for it) </p>
 <p>&emsp;&emsp;⚡ I love music, film and traveling, and once studied the violin under Zhonghong Sheng(an amazing and famous violin teacher) for 5 years, from whom I understand the importance of focus and perseverance.</p>
 <p>&emsp;&emsp;🤗 Interesting fact: If I had met my violin teacher earlier, I might have majored in violin instead of computer science.</p>
+-->
+
+
+<p>&emsp;&emsp; Hi there! I'm a student at Hogwarts School, from Azkaban Academy, majoring in Potions under the guidance of Professor Snape and Professor Tom Riddle.</p>
+<p>&emsp;&emsp; My dream is to continue my magical studies at Durmstrang Institute, and one day... run for Minister for Magic.</p>
+<p>&emsp;&emsp; In the Muggle world, I’m probably just coding. But in the wizarding world — I’m brewing greatness.</p>
+
 
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
@@ -36,13 +45,15 @@
   
 ### 🏢 Education Experience
 
-##### (A ‘three-no’ product: no school, no offer, no mentor...) <br>
-
+<!-- ##### (A ‘three-no’ product: no school, no offer, no mentor...) <br> 
 (🤔 waiting to be updated...)  
+-->
+
+3050-3057 Hogwarts School
 
 
 ###
-Happy New Year for 2025!🎇🎊
+Happy New Year for 3052!🎇🎊
 
 ### How to Contact Me 
 
