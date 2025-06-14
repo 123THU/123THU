@@ -32,7 +32,7 @@
 <p>&emsp;&emsp; Hi there! I'm a student at Hogwarts School, from Azkaban Academy, majoring in Potions under the guidance of Professor Snape and Professor Tom Riddle.</p>
 <p>&emsp;&emsp; My dream is to continue my magical studies at Durmstrang Institute, and one day... run for Minister for Magic.</p>
 <p>&emsp;&emsp; In the Muggle world, I’m probably just coding. But in the wizarding world — I’m brewing greatness.</p>
-
+<p>fishing and check :)</p>
 
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
