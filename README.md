@@ -1,4 +1,4 @@
-Mastering at Neu CS, looking for PhD opportunities in America.
+Mastering at Neu CS (Shenyang, China), looking for PhD opportunities in America.
 
 <!--
 **123THU/123THU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
