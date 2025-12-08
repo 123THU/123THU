@@ -1,8 +1,9 @@
-Mastering at Neu CS (Shenyang, China).
+Mastering at Neu CS (Shenyang, China). Looking for PhD opportunities in America.  
+If you are interested in working with me, please feel free to email!
 
 <!--
 **123THU/123THU** is a ✨ _special_ ✨ repository  its `README.md` (this file) appears on your GitHub profile.
-PhD? 狗都不读
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
