@@ -1,4 +1,4 @@
-Mastering at Neu CS (Shenyang, China). Looking for PhD opportunities in America.  
+Mastering at Neu CS (Shenyang, China). Looking for PhD opportunities in Europe and the United States.  
 
 If you are interested in working with me, please feel free to email!
 
