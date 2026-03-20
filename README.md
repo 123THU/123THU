@@ -1,4 +1,4 @@
-Looking for 27-29 fall MPhil / PhD opportunities in Hong Kong, Europe, and the United States.  
+Looking for 26-29 fall MPhil / PhD opportunities in Hong Kong, Europe, and the United States.  
 
 If you are interested in working with me, please feel free to email me!
 
