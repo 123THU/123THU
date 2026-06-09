@@ -1,4 +1,4 @@
-Looking for PhD opportunities in Hong Kong, Europe, and the United States.  
+Looking for PhD opportunities in the United States.  
 
 If you are interested in working with me, please feel free to email me!
 
