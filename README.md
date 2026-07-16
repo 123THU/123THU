@@ -2,7 +2,8 @@ Looking for PhD opportunities in the United States.
 
 If you are interested in working with me, please feel free to email me!
 
-Step into my world and learn more → https://123thu.github.io/
+Step into my world and learn more: https://123thu.github.io
+
 
 <!--
 **123THU/123THU** is a ✨ _special_ ✨ repository  its `README.md` (this file) appears on your GitHub profile.
