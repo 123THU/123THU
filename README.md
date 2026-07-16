@@ -2,7 +2,7 @@ Looking for PhD opportunities in the United States.
 
 If you are interested in working with me, please feel free to email me!
 
-Step into my world and learn more: https://123thu.github.io
+Step into his world and learn more: https://123thu.github.io
 
 
 <!--
